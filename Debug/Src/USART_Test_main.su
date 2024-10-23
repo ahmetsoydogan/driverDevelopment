@@ -1,0 +1,4 @@
+../Src/USART_Test_main.c:12:6:USART2_IRQHandler	8	static
+../Src/USART_Test_main.c:22:5:main	24	static
+../Src/USART_Test_main.c:45:13:UART_Config	16	static
+../Src/USART_Test_main.c:64:13:GPIO_Config	40	static
